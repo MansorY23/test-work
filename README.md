@@ -1,2 +1,3 @@
-#test-work with yandex weather api on python requests, and data marts on postgres 
-explanation and code inside notebook file
+# data engineer test-work
+Test-work with yandex weather api on python requests, and data marts on postgres. 
+<br />Explanation of task and code inside notebook file <br>
